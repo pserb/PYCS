@@ -1,4 +1,3 @@
-from calendar import c
 from Coin import Coin
 
 class Driver:
